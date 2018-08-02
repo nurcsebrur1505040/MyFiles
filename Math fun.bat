@@ -16,7 +16,7 @@ goto menu
 :startgame
 cls
 echo                              _NUR__CSE__BRUR_
-echo Type Your Name:
+echo Type Your Name :
 set /p name=
 echo Hello ,%name%!
 echo Do you want to start the Quiz?(y/n)
